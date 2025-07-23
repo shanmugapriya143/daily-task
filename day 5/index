@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portfolio</title> 
+    
+ <link rel="stylesheet" href="./style.css">   
+    
+</head>
+<body>
+    <div id="main">
+        <h3>Portfolio.</h3><br><br>
+        <a href="#two">About</a>
+        <a href="#three">Skills</a>
+        <a href="#four">contact me</a>
+      </div>
+      <hr>
+    <div id="one">
+        <div>
+            <img src="../Day 4/portfolio project/WhatsApp Image 2025-06-06 at 6.27.51 PM.jpeg" alt="My Photo">
+        </div>
+
+        <div class="content">
+           
+             <h2>Hello, I'm</h2> 
+             <h1>Shanmugapriya</h1>
+             <h2>And I'm a Software Developer</h2>
+              <p>I specialize in Java, C, and web development with a focus on building clean, user-friendly websites. Currently pursuing my B.Tech and working on real-world projects to sharpen my skills.</p>
+        </h1>
+        </div>
+    </div>
+    <hr>
+    <div id="two">
+    <h2>About me</h2>
+    <ul>
+        <li>I possess strong technical skills in C and Java programming, with a keen interest in problem-solving and logical thinking. My web development knowledge includes proficiency in HTML and CSS, and I have basic experience with JavaScript</li>
+         <li>  To strengthen my foundation, I have completed several certifications, including Java Foundation, HTML and CSS Foundation, and Python Foundation from Infosys Springboard </li>
+    </ul>
+    <hr>
+</div>
+<div id="three">
+    <h2>SKills</h2>
+    <ul>
+        <li>Proficient in C Programming and Java Programming</li>
+
+        <li> Skilled in Web Development using HTML and CSS</li>
+         <li> Strong problem-solving abilities and logical thinking skills</li>
+        <li>   Capable of writing clean, structured, and efficient code</li>
+         <li>   Basic knowledge of SQL for managing and querying databases</li>
+    </ul>
+    <hr>
+    </div>
+    <h2>Certifications</h2>
+    <ul>
+    <li>Completed <b>Java Foundation certification , HTML and CSS Foundation </b> from Infosys Springboard.</li>
+    <li>Completed<b>Python certification</b> from Coursera.</li>
+    <li><b>Completed Building a Full Website using WordPress certification from Coursera.</b></li>
+    <li>Completed <b>Python Foundation certification </b>from Infosys Springboard.</li>
+    </ul>
+    <hr>
+    <h2>Projects</h2>
+    <li>I created a responsive travel website using HTML and CSS to showcase popular tourist destinations and travel packages. The website features a clean and user-friendly design with visually appealing layouts. It includes interactive navigation and structured sections to enhance the overall user experience.</li>
+    <br>
+    <a href="../day 3/application.html">Application</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="../day 2/portfolio/movie.html">Movie project</a>
+<hr>
+<h2>Achievements</h2>
+<ul>
+    <li>Participated in 12-hour and 24-hour hackathons, demonstrating strong problem-solving and collaboration skills.</li>
+ <li>  Solved over 200 programming problems on CodeChef, consistently improving coding proficiency.</li>
+     <li>  Attended more than 70 coding contests on CodeChef to strengthen competitive programming skills.</li>
+</ul>
+<hr>
+<div id="four"></div>
+<h2>contact</h2>
+<i>📞+91-9344716023 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;📧kit27.csbs53@gmail.com</h3></i><br>
+<i><a href="https://www.linkedin.com/in/shanmugapriya-p-09379331b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">🔗Shanmugapriya_linkedin</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.codechef.com/users/kit27csbs53">👨‍🍳codechefId</a></i>
+    <hr>
+</div>
+
+
+
+
+
+</body>
+</html>
